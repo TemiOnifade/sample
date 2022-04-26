@@ -1,4 +1,4 @@
-year,Sensor,Percentage,mortality
+date,Sensor,Percentage,mortality
 12:00,Soil Moisture,47.3,2518
 1:00,Soil Moisture,49.1,2473.1
 2:00,Soil Moisture,51.5,2301.3
